@@ -33,7 +33,7 @@ It continuously senses the surroundings and detects heat or smoke when occurred.
 ###### Where: 
 Can be used anywhere in the buildings and areas where the the fire accidents might occur. 
 ###### How: 
-It requires a PC or laptop along with embedded devices and sensors to complete.
+It requires a PC or laptop along with embedded devices and sensors to complete
 
 ## High Level Requirements
  | ID | Depiction Status | 
