@@ -16,7 +16,9 @@ visuals.
 
 ## DESIGN
 ## BLOCK DAIGRAM 
-![Capture](https://user-images.githubusercontent.com/98832333/154842762-a9d0fa72-32cf-4949-883f-b6d351590d7b.JPG
+![Capture](https://user-images.githubusercontent.com/98832333/154842762-a9d0fa72-32cf-4949-883f-b6d351590d7b.JPG)
+
+
 
 ## SWOT ANALYSIS 
 ![fire swot](https://user-images.githubusercontent.com/98832333/154842711-2678e6ab-e649-4e21-9cf3-cb179a0fa4e9.png)
