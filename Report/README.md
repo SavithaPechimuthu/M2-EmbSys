@@ -1,6 +1,6 @@
-                                                      ###FIRE ALARM SYSTEM
+                                                      ## FIRE ALARM SYSTEM
 
-# Introduction
+## Introduction
 The fire alarm system is an electrical or electronic system that alert or notifies peoples when an 
 emergency accident such as a fire happens. Generally, the fire alarm system is installed in a 
 building to detect the fire anywhere in that building. The fire alarm system has two main parts -
@@ -13,25 +13,25 @@ manually. The alarm system uses different types of speakers, hooters, sounders t
 using voice. The modern fire alarm system also uses lighting, displays to alert people through 
 visuals.
 
-# DESIGN
-# BLOCK DAIGRAM 
+## DESIGN
+## BLOCK DAIGRAM 
 
-# SWOT ANALYSIS 
+## SWOT ANALYSIS 
 
-# 4W'S and 1 H
-# Who: 
+## 4W'S and 1 H
+## Who: 
 The fire alarm system can be used by anyone who needs to be notified in case of smoke or fire in the building.  
-# What: 
+## What: 
 It continuously senses the surroundings and detects heat or smoke when occurred.
-# When: 
+## When: 
  It is active all the time and notifies in case of fire and smoke.
-# Where: 
+## Where: 
 Can be used anywhere in the buildings and areas where the the fire accidents might occur. 
-# How: 
+## How: 
 It requires a PC or laptop along with embedded devices and sensors to complete.
 
-# COMPONENTS REQUIRED 
-# CONTROL PANEL
+## COMPONENTS REQUIRED 
+## CONTROL PANEL
 The Control panel in the fire alarm system (known as FACP or FACU) is the main hub or brain of 
 the whole system. All the initiating devices, notification devices, and other components are 
 connected to this control panel. It receives signals from the initiating devices and sends signals 
@@ -41,48 +41,48 @@ control all the devices connected to it. The control panel takes the main electr
 panel of the fire alarm system is also connected to a secondary backup power supply to utilize it 
 when the main power supply is not available. Generally, a battery, inverter, and rectifier circuits 
 are used for the backup power source.
-# COMMUNICATING DEVICES
+## COMMUNICATING DEVICES
 Communicating devices are those through which we can communicate with the control panel of 
 the fire alarm system or take information or data from it. Repeater panel is an example of a 
 communicating device through which we can observe or control the fire alarm system. A modern 
 fire alarm system allows connecting with computers and networks also.
-# INITIATING DEVICES
+## INITIATING DEVICES
 Initiating devices are those that detect the fire or any environmental changes during fire-related 
 accidents and sends signals to the main control panel. The common examples of initiating devices 
 are Heat Detectors, Smoke Detectors, Dust detectors, carbon monoxide detectors, etc.
-# NOTIFICATION DEVICES
+## NOTIFICATION DEVICES
 Notification devices are those through which the fire alarm system alert peoples. Generally, the 
 notification devices required an additional power supply from the control panel. During any 
 accident or emergency cases, when the control panel receives signals from the initiating devices, 
 it starts to send signals to the notification devices.
 
-# WORKING PRINCIPLE 
+## WORKING PRINCIPLE 
 The basic working principle of a fire alarm system is that when any fire-related accident happens 
 the initiating devices sense the environmental changes and send signals to the control panel with 
 the location of the accidental place. After receiving the signal, the control panel activates the 
 notification devices to alert people to go far away from that place. Safety officers, supervisors 
 can see the location in the control panel and go to the accidental place and take further actions.
 
-# APPLICATION 
+## APPLICATION 
 1) A fire alarm system is number of device working together to detect and warn people through visual and audio appliances when smoke, carbon monoxide or other emergencies are present. 
 2) These alarm may be activated from smoke detector and heat detectors 
 3) They may also activated via manually fire alarm activation devices such as manual call points or pull stations. Fire alarm sounders can be set to certain frequencies and different tones including low, medium and high, depending on the country manufacturer of detectors. 
 4) These alarms may be activated from smoke detectors and heat detectors
 
-# ADVANTAGES
+## ADVANTAGES
 1) Quick acting - provides for earlier detection than other types of smoke detectors or thermal detectors 
 2) It can detect fires that are in the incipient stage or detect other aerosal type smoke products 
 3) Provide early warning
 4) Low cost than thermal detector but it is very useful in emerged stages,not affected by dusty or dirty environments
 5) Responds faster than smoke detectors and minimum maintanence only and suitable for protection of property 
 
-# DISADVANTAGES 
+## DISADVANTAGES 
 1) False alarm
 2) Blinded by thick smoke
 3) Senses near range heat(fire) only
 4) Uses continuous power supply
 
-# CONCLUSION 
+## CONCLUSION 
 This small size fire alarm system is used to sense the presence of fire, smoke or any other type of aerosols. 
 It also helps to warn people from danger and we can prevent the accident by its alert sound. 
 We can use this type of fire alarm system in houses, buildings, industries, and other important places to avoid serious fire accidents
