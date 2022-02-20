@@ -18,7 +18,7 @@ visuals.
 ## BLOCK DAIGRAM 
 
 ## SWOT ANALYSIS 
-
+![fire swot](https://user-images.githubusercontent.com/98832333/154842711-2678e6ab-e649-4e21-9cf3-cb179a0fa4e9.png)
 ## 4W'S and 1 H
 ## Who: 
 The fire alarm system can be used by anyone who needs to be notified in case of smoke or fire in the building.  
