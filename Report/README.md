@@ -1,4 +1,5 @@
-                                                      ## FIRE ALARM SYSTEM
+                                                     
+ # FIRE ALARM SYSTEM 
 
 ## Introduction
 The fire alarm system is an electrical or electronic system that alert or notifies peoples when an 
@@ -29,6 +30,26 @@ It continuously senses the surroundings and detects heat or smoke when occurred.
 Can be used anywhere in the buildings and areas where the the fire accidents might occur. 
 ## How: 
 It requires a PC or laptop along with embedded devices and sensors to complete.
+
+## High Level Requirements
+ | ID | Depiction Status | 
+ |----| ------------------ | 
+ | HR01 | Check all panels, detectors and indicators are installed in their proper location | 
+ | HR02 | Ensure work access is permitted at all fire equipment installation locations on site |
+ | HR03 | Ensure temporary mains supply for the programming computer is made available at each control panel location |
+ | HR04 | Ensure installation technicians (preferably those involved in the system installation and cabling) are present on site with necessary tools |
+ | HR05 | Check third party equipment technicians are available for interface testing |
+ | HR06 |  Ensure the backup batteries are fully charged |
+## Low Level Requirement
+ | ID | Depiction Status | 
+ | -- | ---------------- | 
+ | LR01 | Testing procedures |
+ | LR02 | Operation of Initiating Devices |
+ | LR03 | Operation of audible notification Devices |
+ | LR04 | Audible Notifications signals operating sequence |
+ | LR05 | Power failure test |
+ | LR06 | Fire alarm control panel commissioning |
+ | LR07 | Integration Test |
 
 ## COMPONENTS REQUIRED 
 ## CONTROL PANEL
