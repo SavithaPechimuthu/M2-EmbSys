@@ -15,7 +15,7 @@ using voice. The modern fire alarm system also uses lighting, displays to alert 
 visuals.
 
 ## DESIGN
-## BLOCK DAIGRAM 
+###### BLOCK DAIGRAM 
 ![Capture](https://user-images.githubusercontent.com/98832333/154842762-a9d0fa72-32cf-4949-883f-b6d351590d7b.JPG)
 
 
@@ -24,15 +24,15 @@ visuals.
 ![fire swot](https://user-images.githubusercontent.com/98832333/154842711-2678e6ab-e649-4e21-9cf3-cb179a0fa4e9.png)
 
 ## 4W'S and 1 H
-## Who: 
+###### Who: 
 The fire alarm system can be used by anyone who needs to be notified in case of smoke or fire in the building.  
-## What: 
+###### What: 
 It continuously senses the surroundings and detects heat or smoke when occurred.
-## When: 
+###### When: 
  It is active all the time and notifies in case of fire and smoke.
-## Where: 
+###### Where: 
 Can be used anywhere in the buildings and areas where the the fire accidents might occur. 
-## How: 
+###### How: 
 It requires a PC or laptop along with embedded devices and sensors to complete.
 
 ## High Level Requirements
@@ -56,7 +56,7 @@ It requires a PC or laptop along with embedded devices and sensors to complete.
  | LR07 | Integration Test |
 
 ## COMPONENTS REQUIRED 
-## CONTROL PANEL
+###### CONTROL PANEL
 The Control panel in the fire alarm system (known as FACP or FACU) is the main hub or brain of 
 the whole system. All the initiating devices, notification devices, and other components are 
 connected to this control panel. It receives signals from the initiating devices and sends signals 
@@ -66,16 +66,16 @@ control all the devices connected to it. The control panel takes the main electr
 panel of the fire alarm system is also connected to a secondary backup power supply to utilize it 
 when the main power supply is not available. Generally, a battery, inverter, and rectifier circuits 
 are used for the backup power source.
-## COMMUNICATING DEVICES
+###### COMMUNICATING DEVICES
 Communicating devices are those through which we can communicate with the control panel of 
 the fire alarm system or take information or data from it. Repeater panel is an example of a 
 communicating device through which we can observe or control the fire alarm system. A modern 
 fire alarm system allows connecting with computers and networks also.
-## INITIATING DEVICES
+###### INITIATING DEVICES
 Initiating devices are those that detect the fire or any environmental changes during fire-related 
 accidents and sends signals to the main control panel. The common examples of initiating devices 
 are Heat Detectors, Smoke Detectors, Dust detectors, carbon monoxide detectors, etc.
-## NOTIFICATION DEVICES
+###### NOTIFICATION DEVICES
 Notification devices are those through which the fire alarm system alert peoples. Generally, the 
 notification devices required an additional power supply from the control panel. During any 
 accident or emergency cases, when the control panel receives signals from the initiating devices, 
