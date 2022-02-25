@@ -33,6 +33,8 @@
  The display in use is LCD which has an integrated chip that converts serial data (via I2C bus) into parallel stream of bits for the LCD.
            
  ## SWOT ANALYSIS 
+ ![swot distance](https://user-images.githubusercontent.com/98832333/155760335-85be454a-0dd7-45bb-890e-c01a3be31e45.JPG)
+
  ## 4W's and 1'H
  ###### WHAT:
  Distance is a numerical representation of the distance between two objects or points.
