@@ -32,7 +32,7 @@
            The screen is an LCD with an embedded device that converts serial data (through the I2C bus) into a parallel stream of bits.
            Input capture module of the ATMEGA was used to capture the time between rising and falling edges of the echo pulse. 
            The prescaler of this unit was chosen, such that the resolution of pulse-width is 16uS.
-           The display in use is LCD which has an integrated chip that converts serial data (via I2C bus) into parallel stream of bits for the LCD
+           The display in use is LCD which has an integrated chip that converts serial data (via I2C bus) into parallel stream of bits for the LCD.
            
            ## SWOT ANALYSIS 
            
