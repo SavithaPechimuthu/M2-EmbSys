@@ -1,7 +1,7 @@
         
            # EMBEDDED DISTANCE MEASUREMENT 
              
-           ## INTRODUCTION
+           # INTRODUCTION
            Ultrasonic sensors are excellent tools for measuring distance and detecting objects without making physical contact. 
            It has a variety of uses, including detecting liquid levels, determining proximity, and, more recently, assisting
            in self-parking and anti-collision systems in automobiles. We have also built various Ultrasonic Sensor projects in the past,
@@ -11,7 +11,7 @@
            and return to the source as ECHO. So, after striking the obstruction, we only need to calculate the travel time of both noises, 
            i.e., the departing time and the return time to origin. Because we know the speed of sound, we can determine the distance with a little math.
            
-           ## RESEARCH
+           # RESEARCH
            Nowadays, getting the distance we want to measure is a bit of a challenge. Even though using a measuring tape is a simple choice,
            this type of equipment has a manual error limit. Engineers had previously developed a range finder module, but they discovered that it had a 
            number of drawbacks, including distance limitations, varying results for different coloured obstructions, and the necessity for calibration every time it
