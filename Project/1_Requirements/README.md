@@ -1,5 +1,5 @@
         
-                                                        ## EMBEDDED DISTANCE MEASUREMENT 
+           # EMBEDDED DISTANCE MEASUREMENT 
              
            ## INTRODUCTION
            Ultrasonic sensors are excellent tools for measuring distance and detecting objects without making physical contact. 
