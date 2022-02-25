@@ -1,7 +1,6 @@
-        
-           # EMBEDDED DISTANCE MEASUREMENT 
+# EMBEDDED DISTANCE MEASUREMENT 
              
-           # INTRODUCTION
+# INTRODUCTION
            Ultrasonic sensors are excellent tools for measuring distance and detecting objects without making physical contact. 
            It has a variety of uses, including detecting liquid levels, determining proximity, and, more recently, assisting
            in self-parking and anti-collision systems in automobiles. We have also built various Ultrasonic Sensor projects in the past,
