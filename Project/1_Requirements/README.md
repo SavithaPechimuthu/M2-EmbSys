@@ -67,3 +67,4 @@
  | LR02 | Timer2 of ATMEGA328p is used to generate a Trigger pulse of 20uS, | Implemented | 
  | LR03 | The prescaler of this unit was chosen, such that the resolution of pulse-width is 16uS. | Implemented |
           
+.
