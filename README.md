@@ -1,1 +1,1 @@
-# M2-EmbSys
+# Embedded Depth Estimation
