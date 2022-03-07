@@ -72,7 +72,8 @@
 ## HIGH LEVEL DAIGRAMS
 ![flowchart](https://user-images.githubusercontent.com/98832333/157035604-b14b0b0e-dd33-40ce-a943-dd388dfc9103.JPG)
 ## LOW LEVEL DAIGRAMS
-![lowlevel](https://user-images.githubusercontent.com/98832333/157044897-4e6843b1-5d2b-4322-995f-a649e3488274.JPG
+![lowlevel](https://user-images.githubusercontent.com/98832333/157044897-4e6843b1-5d2b-4322-995f-a649e3488274.JPG)
+
 ## Structural Daigram
 ![behave](https://user-images.githubusercontent.com/98832333/156925806-4edc9c0b-3684-41c1-a752-a82c1820697f.png)
 
