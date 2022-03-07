@@ -66,5 +66,13 @@
  | LR01 | The Timer count (OCR2A) of Timer2 was chosen | Implemented |
  | LR02 | Timer2 of ATMEGA328p is used to generate a Trigger pulse of 20uS, | Implemented | 
  | LR03 | The prescaler of this unit was chosen, such that the resolution of pulse-width is 16uS. | Implemented |
+ ## COMPONENTS REQUIRED
+ ##### ULTRASONIC SENSOR
+ An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves. An ultrasonic sensor uses a transducer to send and receive ultrasonic pulses that relay back information about an object's proximity.
+ ###### HOW DO ULTRASONIC SENSOR MEASURE DISTANCE ?
+ The ultrasonic sensor emits a high-frequency sound pulse and calculates the distance depending upon the time taken by the echo signal to travel back after reflecting from the desired target. The speed of sound is 341 meters per second in air. After the distance is calculated, it will be displayed on the LCD display.
+ ###### EXAMPLES
+ They are used within food and beverage to measure liquid level in bottles, they can be used within manufacturing for an automated process and control maximising efficiency on the factory floor. Some of the many ultrasonic sensor applications which use Migatron sensors are; Robotic sensing. Stacking height control.
+ ##### ATMEGA 328
           
 .
