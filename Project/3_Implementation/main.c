@@ -1,3 +1,13 @@
+/**
+ * @file main.c
+ * @author Savitha
+ * @brief 
+ * @version 0.1
+ * @date 2022-03-05
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #ifndef __AVR_ATmega328P__
     #define __AVR_ATmega328P__
 #endif
@@ -6,9 +16,9 @@
 #include <util/delay.h>
 
 
-#include "i2c_lcd.h"
-#include "inputCapture_timer.h"
-#include "usart.h"
+#include "LCD_i2c.h"
+#include "timer.h"
+#include "SCI.h"
 
 //#define DEBUG_ON
 

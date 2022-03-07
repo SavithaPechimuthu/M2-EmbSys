@@ -1,3 +1,14 @@
+/**
+ * @file timer.h
+ * @author Savitha
+ * @brief 
+ * @version 0.1
+ * @date 2022-03-05
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 #ifndef __AVR_ATmega328P__
     #define __AVR_ATmega328P__
 #endif

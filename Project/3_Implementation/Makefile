@@ -4,9 +4,9 @@ BUILD_DIR = Build
 
 # All Source code files
 SRC = main.c\
-src/i2c.c\
-src/i2c_lcd.c\
-src/usart.c
+src/TWI.c\
+src/LCD_i2c.c\
+src/SCI.c
 
 # All header file paths
 INC = -I inc

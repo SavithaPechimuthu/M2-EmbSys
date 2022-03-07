@@ -1,4 +1,13 @@
-
+/**
+ * @file LCD_i2c.h
+ * @author Savitha
+ * @brief 
+ * @version 0.1
+ * @date 2022-03-05
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #ifndef __AVR_ATmega328P__
     #define __AVR_ATmega328P__
 #endif
@@ -6,7 +15,7 @@
 #include <avr/io.h>
 #include <util/delay.h>
 
-#include "i2c.h"
+#include "TWI.h"
 
 #define LCD_SLAVE_ADDR 0x27
 #define TRUE  1

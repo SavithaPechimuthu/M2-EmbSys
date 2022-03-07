@@ -1,3 +1,14 @@
+/**
+ * @file LCD_i2c.c
+ * @author Savitha
+ * @brief 
+ * @version 0.1
+ * @date 2022-03-05
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 #ifndef __AVR_ATmega328P__
     #define __AVR_ATmega328P__
 #endif
@@ -5,7 +16,7 @@
 #include <avr/io.h>
 #include <util/delay.h>
 
-#include "i2c_lcd.h"
+#include "LCD_i2c.h"
 
 #include <stdint.h>
 
