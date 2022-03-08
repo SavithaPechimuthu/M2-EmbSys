@@ -1,2 +1,3 @@
 # Structural Daigram
-![behave](https://user-images.githubusercontent.com/98832333/156925806-4edc9c0b-3684-41c1-a752-a82c1820697f.png).
+![CIRCUIT](https://user-images.githubusercontent.com/98832333/157161085-b818ffe7-221a-45eb-9300-9f60222d3d7a.JPG)
+
