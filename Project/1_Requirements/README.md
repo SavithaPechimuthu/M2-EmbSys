@@ -59,7 +59,7 @@
  | HR01 | Enable ICP Interrupt | Implemented |
  | HR02 | Enable rising edge detection,noise cancellation | Implemented |
  | HR03 | Enable internal pullups on PORTC PINS SDA(PC4) ,SCL(PC5) | Implemented |
- | HR04 | I2C and LCD | Implemented |
+ | HR04 | I2C and LCD | Implemented |.
   ###### LOW LEVEL REQUIREMETS 
  | ID | DESCRIPTION | STATUS (IMPLEMENTED) |
  | -- | ----------- | ---------------------|
