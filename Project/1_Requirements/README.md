@@ -66,5 +66,22 @@
  | LR01 | The Timer count (OCR2A) of Timer2 was chosen | Implemented |
  | LR02 | Timer2 of ATMEGA328p is used to generate a Trigger pulse of 20uS, | Implemented | 
  | LR03 | The prescaler of this unit was chosen, such that the resolution of pulse-width is 16uS. | Implemented |
+ ## COMPONENTS REQUIRED
+ ##### ULTRASONIC SENSOR
+ An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves. An ultrasonic sensor uses a transducer to send and receive ultrasonic pulses that relay back information about an object's proximity.
+ ###### HOW DO ULTRASONIC SENSOR MEASURE DISTANCE ?
+ The ultrasonic sensor emits a high-frequency sound pulse and calculates the distance depending upon the time taken by the echo signal to travel back after reflecting from the desired target. The speed of sound is 341 meters per second in air. After the distance is calculated, it will be displayed on the LCD display.
+ ###### EXAMPLES
+ They are used within food and beverage to measure liquid level in bottles, they can be used within manufacturing for an automated process and control maximising efficiency on the factory floor. Some of the many ultrasonic sensor applications which use Migatron sensors are; Robotic sensing. Stacking height control.
+ ##### ATMEGA 328P
+ The ATMEGA328P-PN is a popular microcontroller due to it being a major component in the Arduino board products. The ATMEGA328P-PN is the 8-bit RISC heart of the Arduino Uno and Nano, with a maximum clock frequency of 20MHz, 32KB program FLASH, and 2KB of RAM.
+ ###### Applications 
+ ATmega328 is commonly used in many projects and autonomous systems where a simple, low-powered, low-cost micro-controller is needed. Perhaps the most common implementation of this chip is on the popular Arduino development platform, namely the Arduino Uno, Arduino Pro Mini and Arduino Nano models.
+ ##### LCD
+ LCD (Liquid Crystal Display) is a type of flat panel display which uses liquid crystals in its primary form of operation. LEDs have a large and varying set of use cases for consumers and businesses, as they can be commonly found in smartphones, televisions, computer monitors and instrument panels.
+ ###### WORKING
+ The liquid crystal display screen works on the principle of blocking light rather than emitting light. LCDs require a backlight as they do not emit light them. We always use devices which are made up of LCD's displays which are replacing the use of cathode ray tube.
+ ###### ADVANTAGES
+ Better under brighter conditions because of anti-glare technology. Lighter in weight with respect to screen size. Energy efficient because of lower power consumption. Brightness range is too much wider produce very bright images due to high peak intensity.
           
 .

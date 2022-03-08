@@ -1,2 +1,3 @@
 # BLOCK DAIGRAM
-![Block daigram](https://user-images.githubusercontent.com/98832333/156925677-f8e82189-f0e2-4fc6-8e08-e9165d4bf734.png).
+![BLOCK DAIGRAM](https://user-images.githubusercontent.com/98832333/157031649-7a3e100b-b3ca-4d69-a03e-2ec78b882b88.JPG)
+.
